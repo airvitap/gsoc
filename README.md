@@ -30,8 +30,6 @@ This repository serves as a valuable resource for students and aspiring contribu
 
 Below is a list of selected proposals, organized by year and program.
 
-*(This section will need to be populated manually as you add proposals. Example structure below)*
-
 ### 📅 2025
 
 *   **Google Summer of Code (GSoC)**
