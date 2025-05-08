@@ -1,4 +1,4 @@
-# GSoC, LFX Mentorship, KDE SoC & More: Proposal Archive - AIR VIT-AP
+<h1 align="center" > GSoC, LFX Mentorship, KDE SoC & More: Proposal Archive - AIR VIT-AP </h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/GSoC-icon.svg" height="120" alt="GSoC logo">
@@ -33,14 +33,14 @@ Below is a list of selected proposals, organized by year and program.
 ### 📅 2025
 
 *   **Google Summer of Code (GSoC)**
-    *   Sai Sanjay (Open Science Labs) - [sai-sanjay-osl-proposal.pdf](/2025/sai-sanjay-osl-proposal.pdf)
-    *   Udhay Adithya (API Dash) - [Udhay Adithya, APIDash[ACCEPTED].pdf](/2025/Udhay%20Adithya,%20APIDash[ACCEPTED].pdf)
+    *   Sai Sanjay (Open Science Labs) - [sai-sanjay-osl-proposal.pdf](/2025/GSoC/sai-sanjay-osl-proposal.pdf)
+    *   Udhay Adithya (API Dash) - [APIDash-UdhayAdithya[ACCEPTED].pdf](/2025/GSoC/APIDash-UdhayAdithya[ACCEPTED].pdf)
 
 
 ### 📅 2024
 
 *   **Google Summer of Code (GSoC)**
-    *   Shreyas S (Emory) - [Shreyas-S-Emory.pdf](/2024/Shreyas-S-Emory.pdf)
+    *   Shreyas S (Department of Biomedical Informatics, Emory University) - [Shreyas-S-Emory.pdf](/2024/GSoC/Shreyas-S-Emory.pdf)
 
 
 ---
