@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/license/airvitap/gsoc?style=for-the-badge" alt="License">
   </a>
   <!-- Proposal count badge - you'll need to update this manually -->
-  <img src="https://img.shields.io/badge/Proposals-4-blue?style=for-the-badge" alt="Proposal Count">
+  <img src="https://img.shields.io/badge/Proposals-6-blue?style=for-the-badge" alt="Proposal Count">
 </p>
 
 ---
@@ -29,6 +29,12 @@ This repository serves as a valuable resource for students and aspiring contribu
 ## 📚 Proposals Archive
 
 Below is a list of selected proposals, organized by year and program.
+
+### 📅 2026
+
+*   **Google Summer of Code (GSoC)**
+    *   Tanmay Rajurkar (IOOS, Final Selected) - [Tanmay_IOOS(Final-Selected).pdf](/2026/GSoC/Tanmay_IOOS(Final-Selected).pdf)
+    *   Tanmay Rajurkar (LabLua, Selected) - [Tanmay_LabLua(Selected).pdf](/2026/GSoC/Tanmay_LabLua(Selected).pdf)
 
 ### 📅 2025
 
